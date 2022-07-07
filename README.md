@@ -3,6 +3,10 @@ I'm a junior fornt-end developer, I've always found coding intuitive
 and have pushed myself to learn the most effectively to achieve a result.
 I'm a person who loves to learn new things about front-end engineer 🤟.
 
+ 101010 
+
+![photo_2022-07-07 13 58 43](https://user-images.githubusercontent.com/73655719/177741182-f39b41e8-55f2-4eed-841b-54c820e4e218.jpeg)
+
 
 
 <h3 align="left">Connect with me:</h3>
